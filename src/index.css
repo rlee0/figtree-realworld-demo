@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+}
+
+a {
+  cursor: pointer;
+}
+.markdown {
+  font-family: "Source Serif Pro", serif;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  margin-bottom: 2rem;
+}
