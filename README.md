@@ -17,10 +17,8 @@ For more information on how to this works with other frontends/backends, head ov
 
 In your root folder, run the following commands:
 
-> npm install
-> npm start
+`npm install` then `npm start`
 
 Or if you're using yarn:
 
-> yarn install
-> yarn start
+`yarn install` then `yarn start`
